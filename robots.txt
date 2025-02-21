@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /bienvenida/*
+
+Sitemap: https://ganico.cl/sitemap.xml
